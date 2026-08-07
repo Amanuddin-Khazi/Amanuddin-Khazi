@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋 Aman here,</h1>
+<h1 align="left">Hi👋, Aman here</h1>
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I am a Computer Science and Engineering undergraduate with a strong interest in software development and problem solving. I am currently pursuing my Bachelor’s degree at PDA College of Engineering, with an expected graduation in May 2026.</p>
+<p align="left">Welcome to my GitHub profile! I am a Computer Science Engineering with a strong interest in software development and problem solving.</p>
 
 ###
 
