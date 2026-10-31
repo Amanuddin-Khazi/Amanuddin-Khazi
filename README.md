@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Debugging and learning since 2022  <br>📚 Currently learning Data Structures and Algorithms  <br>🎯 Goal: Develop high-quality web applications and contribute to open-source projects</p>
+<p align="left">✨ Debugging and learning since 2022  <br>📚 Currently learning Data Analytics, Data Structures and Algorithms  <br>🎯 Goal: Develop high-quality web applications and contribute to open-source projects</p>
 
 ###
 
