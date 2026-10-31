@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I am a Computer Science Engineering with a strong interest in software development and problem solving.</p>
+<p align="left">Welcome to my GitHub profile! I am a Computer Science Engineer with a strong interest in software development and problem solving.</p>
 
 ###
 
